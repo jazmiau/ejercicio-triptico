@@ -1,0 +1,48 @@
+.caja1{
+  width: 605px;
+  background-color: yellow;
+  text-align: center;
+  border: 1px solid black;
+}
+.caja2{
+  width: 200px;
+  height: 400px;
+  border: 1px solid black;
+  float: left;
+  text-align: justify;
+}
+h3, h2{
+  text-align: center;
+}
+.caja3{
+  width: 200px;
+  height: 400px;
+  border: 1px solid black;
+  float: left;
+  text-align: justify;
+}
+.caja4{
+  width: 200px;
+  height: 400px;
+  border: 1px solid black;
+  float: left;
+  text-align: justify;
+}
+p{
+  margin: 5px;
+}
+.caja5{
+  width: 605px;
+  text-align: center;
+  border: 1px solid black;
+  clear: both;
+  background-color: yellow;
+}
+.img1{
+  width: 200px;
+  height: 200px;
+}
+.img2{
+  width: 180px;
+  height: 180px;
+}
